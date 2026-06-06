@@ -1,47 +1,40 @@
 # AshKing — Red Team Operator Portfolio
 
-> 🔴 Elite Red Team Operator · Adversary Simulation · Penetration Testing · AI Security · Singapore
+> Elite Red Team Operator & Cybersecurity Researcher based in Singapore
 
-A fully self-contained single-file HTML portfolio website for **AshKing**, a cybersecurity red team operator based in Singapore.
+[![Live Site](https://img.shields.io/badge/Live%20Site-ashking000.github.io%2Fashking--portfolio-00ff41?style=for-the-badge&logo=github)](https://ashking000.github.io/ashking-portfolio/)
 
-## 🌐 Live Site
+## About
 
-Deployed via **GitHub Pages** at: `https://ashking000.github.io/ashking-portfolio/`
+Personal portfolio for **AshKing** — a Red Team Operator specializing in:
+- Adversary simulation & APT emulation
+- AI/LLM red teaming & prompt injection research
+- Penetration testing (web, network, AD, cloud)
+- Exploit development & vulnerability research
+- Cloud security (AWS/Azure/GCP)
 
-## 📋 Features
+## Tech Stack
 
-- 🎨 **Hacker Terminal Aesthetic** — Electric green `#00ff41` on near-black surfaces with scanline animations
-- 🌙 **Dark / Light Mode Toggle** — Defaults to dark, fully themed light mode available
-- 📱 **Fully Responsive** — Mobile-first, tested from 375px to 2560px
-- ⚡ **Scroll Reveal Animations** — Every section animates into view
-- 🔢 **Animated Stat Counters** — CTF wins, CVEs found, years of experience
-- 📬 **Working Contact Form** — Opens ProtonMail (`ashking0@proton.me`) with pre-filled subject & body
+- Pure HTML5 / CSS3 / Vanilla JS — zero dependencies
+- Google Fonts: Share Tech Mono, Rajdhani, Space Grotesk
+- Lucide Icons (CDN)
+- Dark/Light mode with terminal hacker aesthetic
+- Fully responsive (mobile-first)
 
-## 📂 Sections
+## Features
 
-1. **Hero** — Terminal-style intro with blinking cursor & stat cards
-2. **About** — Full bio + 12 skill tags
-3. **Services** — 6 service cards (Red Team, Pentest, AI/LLM, Cloud, Exploit Dev, Mentorship)
-4. **Projects** — 6 project cards including featured AI-augmented C2 Framework
-5. **Arsenal** — 12 tool cards (Metasploit, Cobalt Strike, Burp Suite, BloodHound, etc.)
-6. **Certifications** — OSCP, CRTO, CEH, AWS SAA, eJPT, AI Red Teamer
-7. **Contact** — Form + direct email link to `ashking0@proton.me`
+- Terminal-style hero with animated cursor
+- Scroll-reveal animations
+- Animated stat counters
+- 6 project showcases
+- 12-tool arsenal grid
+- Contact form → `ashking0@proton.me`
+- Light & dark mode toggle
 
-## 🚀 Deploy on GitHub Pages
+## Contact
 
-1. Go to **Settings → Pages**
-2. Source: `Deploy from a branch`
-3. Branch: `main` / folder: `/ (root)`
-4. Save — live at `https://ashking000.github.io/ashking-portfolio/`
+📧 ashking0@proton.me  
+📍 Singapore, SG
 
-## 🛠 Tech Stack
-
-- **Pure HTML5 / CSS3 / Vanilla JS** — Zero dependencies, no build tools
-- [Share Tech Mono](https://fonts.google.com/specimen/Share+Tech+Mono) — Terminal display font
-- [Rajdhani](https://fonts.google.com/specimen/Rajdhani) — Heading font
-- [Space Grotesk](https://fonts.google.com/specimen/Space+Grotesk) — Body font
-- [Lucide Icons](https://lucide.dev/) — Icon library via CDN
-
-## 📄 License
-
-MIT © 2026 AshKing
+---
+*© 2026 AshKing · Red Team Operator · Singapore*
